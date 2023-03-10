@@ -1,4 +1,4 @@
-cf_id,contact_id,company_name,description,goal,pledged,outcome,backers_count,country,currency,launch_date,end_date,category ID,subcategory ID
+cf_id,contact_id,company_name,description,goal,pledged,outcome,backers_count,country,currency,launch_date,end_date,category_ID,subcategory_ID
 147,4661,"Baldwin, Riley and Jackson",Pre-emptive tertiary standardization,100.0,0.0,failed,0,CA,CAD,1970-01-01 00:00:01.581573600,1970-01-01 00:00:01.614578400,cat1,subcat1
 1621,3765,Odom Inc,Managed bottom-line architecture,1400.0,14560.0,successful,158,US,USD,1970-01-01 00:00:01.611554400,1970-01-01 00:00:01.621918800,cat2,subcat2
 1621,3765,Odom Inc,Managed bottom-line architecture,1400.0,14560.0,successful,158,US,USD,1970-01-01 00:00:01.611554400,1970-01-01 00:00:01.621918800,cat6,subcat2

@@ -1,25 +1,25 @@
-,category_id,category
-0,cat1,food
-1,cat2,music
-2,cat3,technology
-3,cat4,theater
-4,cat5,film & video
-5,cat6,music
-6,cat7,film & video
-7,cat8,music
-8,cat9,technology
-9,cat10,publishing
-10,cat11,film & video
-11,cat12,games
-12,cat13,film & video
-13,cat14,publishing
-14,cat15,photography
-15,cat16,publishing
-16,cat17,music
-17,cat18,music
-18,cat19,publishing
-19,cat20,film & video
-20,cat21,games
-21,cat22,music
-22,cat23,film & video
-23,cat24,journalism
+category_id,category
+cat1,food
+cat2,music
+cat3,technology
+cat4,theater
+cat5,film & video
+cat6,music
+cat7,film & video
+cat8,music
+cat9,technology
+cat10,publishing
+cat11,film & video
+cat12,games
+cat13,film & video
+cat14,publishing
+cat15,photography
+cat16,publishing
+cat17,music
+cat18,music
+cat19,publishing
+cat20,film & video
+cat21,games
+cat22,music
+cat23,film & video
+cat24,journalism
